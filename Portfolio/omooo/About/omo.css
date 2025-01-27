@@ -1,0 +1,84 @@
+img{
+border-radius: 100%;  
+}
+* {
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  box-sizing: border-box;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body {
+  display: flex; /* Use flexbox to align sections side by side */
+}
+
+.section1 {
+  width: 200px; /* Set a fixed width for the sidebar */
+  height: 100vh; /* Full height of the viewport */
+  background-color: rgb(84, 15, 21);
+  padding-top: 100px;
+  
+}
+
+.section2 {
+  flex: 1; /* Take the remaining width */
+  padding: 20px; /* Add some padding */
+  background-color: rgb(
+    156,
+    26,
+    63
+  ); /* Optional: Background color for visibility */
+  color: rgb(254, 254, 254); /* Text color */
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.ull {
+  list-style-type: none;
+}
+
+.dashboard {
+  height: 78px;
+}
+
+.ull li {
+  padding: 30px;
+  margin: 0 6px;
+  border-radius: 6px;
+  transition: all 0.5s ease-in-out;
+}
+
+.ull li:hover {
+  background: #e0e0e058;
+}
+
+.ull a {
+  align-items: center;
+  display: flex;
+}
+.abouttolu {
+  position: absolute;
+  width: 50%;
+  /* align-items: center; */
+  top:200px ;
+	font-size: 20px;
+	line-height: 35px;
+  display: flex;
+}
+.image-wrapper{
+padding-left: 800px;
+padding-top: 170px;
+}
+.get{
+  position: relative;
+  background-color:rgb(105, 21, 45);
+  opacity: 10px;
+  width: 1200%;
+  padding: 1rem;
+  color: white;
+}

@@ -1,0 +1,132 @@
+.navstyle {
+	display: flex;
+	justify-content: space-between;
+}
+.leftside {
+	list-style-type: none;
+}
+.rightside {
+	list-style-type: none;
+	display: flex;
+}
+.rightside li {
+	padding-right: 10px;
+}
+.formelement {
+	background-color: #f5f5f569+;
+	width: 60%;
+	margin-inline: auto;
+	display: flex;
+	align-items: center;
+	padding: 17px 15px;
+	border-radius: 45px;
+	background-color: rgb(245, 245, 245);
+}
+form input {
+	background-color: transparent;
+	width: 100%;
+	border: 0;
+}
+input {
+	padding: 10px;
+	border: none;
+	outline: none;
+	background-color: rgb(245, 245, 245);
+}
+.sec {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	height: 80vh;
+}
+.inputbtn {
+	background-color: #d6d6d6;
+	padding: 7px;
+	border-radius: 50%;
+	border: none;
+	outline: none;
+}
+.make-button {
+	height: 40px;
+	padding: 8px 12px;
+	border-radius: 30px;
+	border-color: #e8e8e8;
+	color: #676767;
+	border-style: solid;
+}
+.sum-button {
+	height: 40px;
+	padding: 8px 12px;
+	border-radius: 30px;
+	border-color: #e8e8e8;
+	color: #676767;
+	border-style: solid;
+	margin-bottom: 10px;
+}
+.brain-button {
+ 
+	height: 40px;
+	padding: 8px 12px;
+	border-radius: 30px;
+	border-color: #e8e8e8;
+	color: #676767;
+	border-style: solid;
+}
+.write-button{
+	height: 40px;
+	padding: 8px 12px;
+	border-radius: 30px;
+	border-color: #e8e8e8;
+	color: #676767;
+	border-style: solid;
+}
+.code-button{
+	height: 40px;
+	padding: 8px 12px;
+	border-radius: 30px;
+	border-color: #e8e8e8;
+	color: #676767;
+	border-style: solid;
+}
+.get-button{
+	height: 40px;
+	padding: 8px 12px;
+	border-radius: 30px;
+	border-color: #e8e8e8;
+	color: #676767;
+	border-style: solid;
+}
+.suprise-button{
+	height: 40px;
+	padding: 8px 12px;
+	border-radius: 30px;
+	border-color: #e8e8e8;
+	color: #676767;
+	border-style: solid;
+	
+
+}
+.log-button{
+	background: black;
+	color: white;
+	border-radius: 30px;
+	height: 30px;
+	padding: 4px 12px;
+	border: none;
+	font-weight: bolder 
+	
+	}
+	.sign-button{
+		background-color: white;
+	color: black;
+	height: 30px;
+	padding: 4px 12px;
+	border-width: 1px;
+border-style: solid;				
+	border-color: #d9d9d9;
+	font-weight: bolder;
+border-radius: 30px
+
+
+}

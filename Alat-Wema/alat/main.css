@@ -1,0 +1,187 @@
+* {
+  margin: 0;
+}
+main {
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+}
+.section1  {
+  display: flex;
+  flex: 1;
+  
+  
+  
+  background-position: center;
+  flex-direction: column;
+  align-items: center;
+  background-image: ;
+  
+  
+}
+.section1 h4 {
+  color: white;
+  font-family: Proxima Nova, sans-serif;
+  font-weight: 550;
+  margin: 12px 2px;
+  font-size: 17.5px;
+}
+.section2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex: 1; */
+  margin-top: -50px;
+}
+.link {
+  color: #ab2656;
+  justify-content: center;
+  font: 16px;
+  font-family: Proxima Nova, sans-serif;
+  font-weight: 500;
+  text-decoration: none;
+  align-items: center;
+  font-size: inherit;
+}
+.linkdiv {
+  margin: 55px;
+}
+.seconddiv {
+  display: flex;
+  width: 100%;
+  justify-content: left;
+  padding-left: 150px;
+}
+.cbnimg {
+  width: 100rem;
+  height: 15rem;
+
+  margin-top: 9px;
+  margin-left: -9px;
+}
+.alatimg,
+.para {
+  margin: 7px;
+}
+.para {
+  margin-top: 20px;
+  color: #4d4d4d;
+  font-family: Proxima Nova, sans-serif;
+  font-size: 0.9285714285714286rem;
+}
+.welcome {
+  color: #444444;
+  font-family: Proxima Nova, sans-serif;
+  font-size: 20.9px;
+  font-weight: 700;
+}
+.Welcomediv {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: left;
+  padding-left: 200px;
+}
+hr {
+  border: 3.7px rgb(171, 11, 75) solid;
+  width: 2.5rem;
+  margin: 0;
+}
+input {
+  padding: 6px 0px 7px;
+  width: 67%;
+  margin: 15px 0px;
+  height: 25%;
+}
+.formm {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding-left: 200px;
+  padding-top: 30px;
+}
+label {
+  font: inherit;
+  padding: 0px 20px;
+}
+.pass {
+  margin-right: 200px;
+  font-family: Proxima Nova, sans-serif;
+  font-size: 0.9rem;
+  color: #757575;
+}
+.forpass {
+  color: rgb(171, 38, 86);
+  font-size: 0.9rem;
+  font-family: Proxima Nova, sans-serif;
+}
+.email {
+  font-family: Proxima Nova, sans-serif;
+  font-size: 0.9rem;
+  color: #757575;
+}
+button {
+  padding: 8px 16px;
+  width: 440px;
+  justify-content: inherit;
+  margin: 15px;
+  margin-left: -1px;
+  height: 40px;
+  background-color: rgb(171, 38, 86);
+  border: none;
+  color: white;
+  margin-bottom: 40px;
+  cursor: pointer;
+}
+.new a {
+  text-decoration: none;
+  font-family: Proxima Nova, sans-serif;
+  font-size: 0.9rem;
+  color: rgb(171, 38, 86);
+  font-weight: 700;
+}
+.new {
+  font-family: Proxima Nova, sans-serif;
+  font-size: 0.9rem;
+  color: #757575;
+}
+.we {
+  font-weight: 100;
+  color: white;
+  font-family: Proxima Nova, sans-serif;
+  font-size: 14px;
+}
+.icons{
+  align-items: end;
+}
+.emailicons img {
+  fill: white;
+}
+.emailicons {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0px;
+  margin-right: 70px;
+}
+.helplink {
+  color: white;
+  font-family: Proxima Nova, sans-serif;
+  font-size: 13px;
+  text-decoration: none;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.number {
+  color: white;
+  font-family: Proxima Nova, sans-serif;
+  display: inline;
+  margin-left: 7px;
+}
+.Talk {
+  margin-right: 190px;
+}
+.socialicons {
+  margin-right: 200px;
+}
