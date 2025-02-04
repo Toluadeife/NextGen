@@ -1,0 +1,27 @@
+.counting-container{
+display: grid;
+place-items: center;
+width: 100vh;
+}
+.counting-button{
+  display: block;
+  margin: 7px;
+  padding: 10px 0px;
+  color:white;
+  background-color: rgb(247, 184, 10);
+  width: 100px;
+  border: none;
+  border-radius: 20px;
+ 
+}
+
+.counting-buttons{
+  display: block;
+  margin: 7px;
+  padding: 10px 0px;
+  color:white;
+  background-color: rgb(18, 247, 10);
+  width: 100px;
+  border: none;
+  border-radius: 20px;
+}
